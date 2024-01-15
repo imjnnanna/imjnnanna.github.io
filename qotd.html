@@ -1,0 +1,19 @@
+---
+layout: default
+title: QotD
+---
+
+<main class = "regular">
+    <h1>Quote of the Day</h1>
+    {% for quote in site.data.quotes %}
+        <p style = "margin-bottom: 0px;">
+            <span class = "green">{{ quote.date | date: "%B %-d %Y" }}</span>
+            <br>
+            "{{ quote.quote }}"
+        </p>
+        <p style="text-align: right; margin-top: 0px; font-style: italic; color: #999999;">- {{ quote.author }}</p>
+    {% endfor %}
+
+    <p>--</p>
+    <p>About this page: I will post any quote that I find hilarious, deep like a kiddie pool, or one that I come up on my own here as a QotD.</p>
+</main>
