@@ -1,10 +1,54 @@
 ---
 layout: default
-title: Lilnks
+title: Links
 ---
 <main class="regular">
     <h1>Links</h1>
     <p>
-        I don't really know what to add here yet, check back later for updates.
+        I have a habit of keeping tabs open on my phone on links that I went into a rabbit hole with and keep to re-read in the future. This is a place for me to dump these links so my terrible 100-tabs-open habit doesn't relapse.
     </p>
+    <details class="h2">
+        <summary>Wikipedia</summary>
+        {% for tag in site.data.link_tags %}
+            <details>
+                <summary>{{ tag }}</summary>
+                <ul>
+                    {% for item in site.data.links %}
+                        {% if item.link contains "https://en.wikipedia.org/" and item.tag contains tag %}
+                            <li>
+                                <a href="{{ item.link }}">{{ item.title }}</a>: {{ item.reason }}
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </details>
+        {% endfor %}
+    </details>
+
+    <details class="h2">
+        <summary>Papers</summary>
+            <ul>
+                {% for item in site.data.links %}
+                        {% if item.tag contains "paper" %}
+                            <li>
+                                <a href="{{ item.link }}">{{ item.title }}</a>: {{ item.reason }}
+                            </li>
+                        {% endif %}
+                {% endfor %}
+            </ul>
+    </details>
+    
+
+    <details class="h2">
+        <summary>Other</summary>
+            <ul>
+                {% for item in site.data.links %}
+                        {% unless item.tag contains "paper" or item.link contains "https://en.wikipedia.org/" %}
+                            <li>
+                                <a href="{{ item.link }}">{{ item.title }}</a>: {{ item.reason }}
+                            </li>
+                        {% endunless %}
+                {% endfor %}
+            </ul>
+    </details>
 </main>

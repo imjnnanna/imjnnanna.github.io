@@ -1,8 +1,10 @@
 - name: Blog
-  link: https://jewonim.wordpress.com
+  link: /blog.html
 - name: Projects
-  link: projects.html
+  link: /projects.html
+- name: Music
+  link: /music.html
 - name: Links
-  link: links.html
+  link: /links.html
 - name: QotD
-  link: qotd.html
+  link: /qotd.html

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Blog
+---
+<main class = "regular">
+    <h1>Writing</h1>
+    <ul class = "blog">
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class = "date">{{ post.date | date: "%B %-d, %Y" }}</span>
+                <br>
+                <div class = "excerpt">{{ post.excerpt }}</div>
+            </li>
+        {% endfor %}
+    </ul>
+    --<br>
+    Check out my archived <a href="https://jewonim.wordpress.com">wordpress</a> for some more writing.
+</main>

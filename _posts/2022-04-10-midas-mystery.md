@@ -1,0 +1,106 @@
+---
+layout: post
+title: Midas Mystery
+excerpt: Murder mystery fiction. If you’re expecting sophisticated or well-written writing, this one may not be for you.
+---
+*“Another ‘Midas touch’ killing has been found in Minnesota, far from California, where the previous murder occured. Officers have found a similar, mysterious style of homicide, body sunk in the middle of a swamp. While the body was unidentifiable due to the amount of decay, the neck, wrist, and hair were distinctively gold-plated, and other parts were completely solidified. Officer suspect—”*
+
+Nate turned off the TV and sipped his cup of black coffee. The news got him thinking, and he absorbed the caffeine into his system while tracing his memory back to the day of the incident. Yes, the swamp commission. The swimmer had specifically requested to place the body into a mucky swamp, which Nate thoroughly despised. He wondered if the swimmer was finally winning the competitions now that his rival competitor was dead.
+
+Brrrrr.
+
+The phone rang, disturbing his thoughts. He sighed and put down his mug. 
+
+“Fine Jewelry Repair services, how may I help you?”
+
+“Hi, I would like to place a commission to Mr. Leich for a transformation order,” the voice of a young woman said. A third commission within the same month? Nate sat up, eager to listen to the deal. He was getting a bit tight financially as a “freelancer.”
+
+“Yes, you are speaking to Nathaniel Leich. For a transformation order, correct?”
+
+“Yes! I’m so glad I reached you directly, Mr. Leich. I was just seeing the news about your recent work in Minnesota. I do want to let you know about the details of what I need, but first of all, would it be possible if I could know how exactly you perform your… human commissions?”
+
+Nate raised an eyebrow. He knew that his number was only passed from client to client in top security, so this could not be a random journalist trying to track him down for a murder. He did want to keep a radar out for anything suspicious, though.
+
+“Sure, I can explain it to you once we’re in-person. All my transformation commissions are done at your desired location, so hopefully I will be meeting you there. What exactly is your order?”
+
+“Oh, ok, thank you! It was just out of curiosity after watching the news. I’m actually not wanting to do anything with people, I was wondering if you could taxidermy some of my cats? She passed away after giving birth to stillborn kittens, so I would love to keep them as statues in her memory.”
+
+Seemed easy enough. Every commission came with a hefty price, which she should have been informed about from whomever she got his number from. It was a good deal; he told her that he would be willing to make the request.
+
+“So I don’t need to go over to your workshop or office?” she asked.
+
+“Yes, everything will be done wherever the client is, no matter how small the order. Can you text me your address and details at this phone number? I will give you an estimated cost and time to arrive, and once you confirm, I’ll be there as soon as possible.”
+
+“Sounds good, it’ll be at my house. I’ll text you.”
+
+He received the address soon after she hung up. Celebrating silently, Nate picked up his mug again and finished downing the bitter, now slightly cool, coffee. He stretched his hands, ready to go on another trip.
+
+*
+
+Nate pressed the rusty doorbell, which made a faint ding sound from inside the house. The house itself was quite normal, not so fancy as he had seen from his other clients. She hadn’t hesitated to agree to the high cost, though, so it wasn’t much of a deal. The location was in the countryside, which annoyed Nate the slightest bit, but the hour drive from the airport wasn’t all too bad after a nice first-class plane ride. 
+
+The door creaked open, and a teenage girl peeked out. Once she saw that it was obviously who she had called for, she opened the door fully. “Hi!” she exclaimed. Nate was taken aback by her appearance. She seemed only around sixteen years old, but with dark, luscious brown hair, startling blue eyes, and a tall and lean figure, he felt an uncomfortable sense of attraction. He shook his head; he was a professional, even if his profession was not so much in the legal fields. He cleared his voice: “Hi, this is Nathaniel Leich, here for the transformation services.”
+
+She introduced herself as Christine and showed him inside. Walking him to a room, she looked down at his hands.
+
+“So, do you not wear gloves?” she asked, with the same curiosity she had shown on the phone call. She must be really interested in this job, Nate thought.
+
+“Yes, well, it would be a pretty bad curse if my touch was there in everyday life, wouldn’t it? I need to activate it.”
+
+They arrived at the room, where he noticed the cats in the corner. Squatting next to the bodies, he set down his bag and rummaged through, picking out a small, glittering glass vial. Christine moved closer to him, noticing that the glittering was from tens of tiny gold droplets, just like pills.
+
+“I need to swallow gold to activate my Midas touch. Don’t ask me how I figured it out a few years ago, but it apparently happens to be it,” Nate laughed, shaking out a pill and popping it into his mouth. Christine watched intensely in appreciation. “Can I look at the droplets?” she asked, and he handed the bottle to her, slightly distracted by the strange feeling that he had around her. He focused back on the cats, who were sprawled across the floor.
+
+“You wanted to know how the human commissions were done, right? It’s really similar to the taxidermies, but I’ll show you the details,” he explained as he rubbed his hands together, which were starting to shine in a yellow hue. Nate grabbed the cat’s neck, stroking its fur with the other hand as he positioned the limp body into a standing position.
+
+“When dealing with humans, I would usually start with the neck, because you want to cut off the breath and the blood supply. The ‘golden touch’ travels through the skin pretty slowly, so I take advantage of the surface area of my hands.” The mother cat’s fur became lined in a thin gold plating everywhere he stroked, and the neck area seemed to grow stiffer with each second. A few minutes later, the entire cat had turned solid. Each bristle of her fur stood in bright golden strands, her closed eyes glistened with elegance, and her tail curved upwards in a life-like motion. Assuming that Christine would be staring in awe, Nate turned around.
+
+“The mother cat is done, and now with the kittens—”
+
+But he never saw the awestruck expression on her face. She had stood up a split second ago, and before he knew it, she raised her right foot and slammed it against the ground where his hands rested.
+
+Crunch.
+
+Was that the sound of bones breaking? Nate barely processed what was going on as he screamed in pain, collapsing onto the ground and holding his hands to his mouth. Christine looked down upon his writhing body, her once curious face now twisted in nonchalance. Without hesitation, she kicked his lower legs in full force. The fact that she was probably an athlete crossed Nate’s mind through the flashing pain. While continuing to press down on his red, bleeding hands with her shoes, she took a roll of duct tape from behind her back. It would have almost been mesmerizing to see how rapidly she rolled the gray band around and around his broken legs, ankles, and arms. Stunned from the pain, he could only watch as the beautiful girl finished wrapping the last inch of gray at his wrist. 
+
+Then, she made an unexpected move: she clasped her hands around his neck. Was she going to choke him to death, of all the options? From his peripheral vision, Nate caught a familiar glimmer on her hands, and just behind her, a shattered bottle—his vial of gold droplets. A few seconds later, he felt an alarming sense of stiffness in his neck, a malleable layer that was definitely not human skin, forming around where her hands touched. It was seeping underneath the outer plating, and to his horror, into his bloodstream.
+
+It was his Midas touch.
+
+“How? Why??” he choked out, struggling against the tape.
+
+Christine looked like she was restraining herself, almost as if she could kill him on the spot right that moment, but keeping her hands methodically on him. “Christine. Christine Prant.”
+
+“What?”
+
+“Christine Prant. That’s my name. Sounds familiar?”
+
+Realization and dread simultaneously washed over Nate: Prant. The name was indeed familiar to him, too familiar. It was so long ago, but he remembered the name as brightly as the golden cat lying next to him, now forgotten.
+
+His memory, though, was not helping at all with his physical state. With almost a decade of experience, he knew exactly what was going on as her hands continued to press against his skin of gold. The touch froze off his trachea and was traveling down to the edges of his lungs. His blood grew viscous with liquid gold circulating around his arteries, his veins, his capillaries. Her Midas touch was weaker than his, and the gold was spreading slower than with his victims, but it would only take a couple more minutes until everything would be cut off from his system.
+
+“Talk. Talk to me,” said Christine, her voice becoming staggered with fast breaths. Adrenaline, he supposed.
+
+With those phrases, Nate’s memories jogged back into his mind like a bucket of stones. Prant… Jackie Prant was his very first partner, whom he had met in college; they had dated intensely for a solid two years until graduation. However, he soon set up his private business using his touch, which Jackie firmly disagreed with due to ethics issues. They had broken up peacefully, no problem.
+
+The real difficulty with the breakup came in the years after. Nate lived in fear every time his murder came up in the news; she knew his secret, and she was not on his side. As soon as he received a message from her years later, he agreed to meet with her immediately. He went over to her house. And she was killed, just like every other one of his commissioned murders--except it wasn’t a commission.
+
+And now, here he lay on the ground, taped up, bones broken, being strangled to death in the exact same way. “Prant… you’re her child.” he managed to sputter out. Christine seethed.
+
+“MURDERER!”
+
+She squeezed harder. He could finally see the glistening of gold near his cheeks; the outer gold plating was spreading faster and faster. Soon, he would die painfully as enough gold would travel through his blood vessels, solidifying him, cutting him off of nutrition and oxygen, choking to death by aurum.
+
+Hands burning, legs immobile, face and neck numb, he breathed through his rubbery lungs. “If only I knew she had a child…”
+
+Did slight tears form on her eyes, or was it a hallucination? Whatever it was, she stared, glared him down.
+
+“You can’t even imagine what I felt like when I walked upon a golden statue of my mother.” She gulped. “Meet the same fate and the summation of your sins. Face your consequences.”
+
+With that, she flexed her fingers, as tight as they could be around his solid neck. A surge of the golden touch ripped through his entire body, clumps forming in his veins. Feeling lightheaded, his lungs screeched in rigidness. His breath cut off. “I—”
+
+*
+
+*“Now today, we have another hot event to report: another chain is to be added to the series of Midas killer incidents. This case opens with a golden man found buried in the middle of a mountain trail. Findings report that this man is identified as Nathaniel—”*
+
+Christine Prant turned off the TV.

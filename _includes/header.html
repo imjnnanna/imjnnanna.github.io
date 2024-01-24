@@ -1,11 +1,11 @@
 <header>
-    <a id='logo' href='index.html'>jewon im</a>
+    <a id='logo' href='/'>jewon im</a>
     <nav>
         {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" {% if page.url == item.link %}class = "current"{% endif %}>
+            |
+            <a href="{{ item.link }}" {% if item.link == page.url %}class = "current"{% endif %}>
             {{ item.name }}
             </a>
-            |
         {% endfor %}
     </nav>
 </header>
