@@ -7,14 +7,14 @@ html {
 body {
   font-family: monospace, monospace;
   font-size: 18px;
-  background: #fcfcfc;
+  background: white;
   color: black;
   line-height: 1.3em;
 }
 
 hr {
-  margin: 12px 0px;
-  border: 1px solid #d0e0d1;
+  border: 0;
+  border-top: 1.9px solid #97bd99;
 }
 
 header {
@@ -32,7 +32,8 @@ footer {
   font-size: 14px;
   color: #97bd99;
   text-align: center;
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 main {
@@ -40,6 +41,15 @@ main {
 }
 main#homepage {
   text-align: center;
+}
+main#homepage img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+main#homepage p.regular {
+  font-size: 16px;
 }
 main.regular {
   font-size: 16px;
@@ -83,19 +93,6 @@ ul.blog li .excerpt {
 .post_content p {
   margin: 25px 0;
 }
-.post_content img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 250px;
-}
-.post_content img + em {
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 400px;
-}
 .post_content .center {
   text-align: center;
 }
@@ -103,11 +100,84 @@ ul.blog li .excerpt {
   text-align: right;
 }
 
+pre {
+  background-color: #f6f6f6;
+  padding: 15px;
+  border-left: 10px solid #e2e6e8;
+  overflow: auto;
+  line-height: 1.2em;
+}
+pre code {
+  background-color: #f6f6f6;
+  padding: 0;
+}
+
+code {
+  background-color: #e2e6e8;
+  border-radius: 3px;
+  padding: 1px 3px;
+}
+
+.potw {
+  font-size: 16px;
+}
+.potw :nth-child(even) pre {
+  background-color: #e2e6e8;
+}
+.potw :nth-child(even) pre code {
+  background-color: #e2e6e8;
+}
+.potw pre {
+  border-left: 0;
+}
+.potw code {
+  white-space: pre-wrap !important;
+  overflow-wrap: break-word;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  max-width: 100%;
+  height: auto;
+}
+img + em {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100vw;
+  height: auto;
+  width: 400px;
+}
+
+.small {
+  width: 150px;
+}
+
+.medium {
+  width: 350px;
+}
+
+.large {
+  width: 450px;
+}
+
+.full {
+  width: 640px;
+}
+
 a {
   color: #97bd99;
   text-decoration: none;
 }
 a:hover, a .current {
+  font-weight: bold;
+}
+
+.current {
   font-weight: bold;
 }
 
@@ -148,6 +218,22 @@ details.h2 details {
 details.h2 details > summary {
   text-transform: capitalize;
   cursor: pointer;
+}
+
+.page_descriptor {
+  font-style: italic;
+  color: #b0b0b0;
+  text-align: center;
+}
+
+.qotd .date {
+  margin-bottom: 0;
+}
+.qotd .author {
+  text-align: right;
+  margin-top: 0;
+  font-style: italic;
+  color: #b0b0b0;
 }
 
 /*# sourceMappingURL=styles.css.map */
